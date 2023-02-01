@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Teko:wght@700&display=swap');
+
+body {
+    background-image: url('https://media3.giphy.com/media/5C2pAe7Zk3M29BFGBt/giphy.gif?cid=6c09b952v2rmlxnimnnkt5psc5kox4c5wp21vxvhs418j3gv&rid=giphy.gif&ct=s');
+    background-size: cover;
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+}
+
+h1 {
+  color: aquamarine;
+  font-size: 80px;
+  background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
+
+p {
+  color: aquamarine;
+  font-size: 40px;
+  background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
+
+img{
+    width:100%;
+    max-width:600px;
+}
+
+h4 {
+    font-size: 55px;
+    color: aquamarine;
+    background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
+
+h5 {
+    font-size: 40px;
+    color: aquamarine;
+    background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
+
+dt {
+    font-size: 30px;
+    color: aquamarine;
+    background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
+
+dd {
+    font-size: 30px;
+    color: aquamarine;
+    background-image: url('https://thumbs.gfycat.com/CourageousCircularGentoopenguin-size_restricted.gif');
+}
