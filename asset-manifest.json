@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/90s-website-v2/static/js/main.fc0d3d99.js",
+    "main.css": "/90s-website-v2/static/css/main.73af4f53.css",
+    "main.js": "/90s-website-v2/static/js/main.6057e97e.js",
     "index.html": "/90s-website-v2/index.html",
-    "main.fc0d3d99.js.map": "/90s-website-v2/static/js/main.fc0d3d99.js.map"
+    "main.73af4f53.css.map": "/90s-website-v2/static/css/main.73af4f53.css.map",
+    "main.6057e97e.js.map": "/90s-website-v2/static/js/main.6057e97e.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc0d3d99.js"
+    "static/css/main.73af4f53.css",
+    "static/js/main.6057e97e.js"
   ]
 }
